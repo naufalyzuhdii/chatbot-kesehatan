@@ -1,0 +1,7 @@
+{
+    "responses": {
+        "demam": "Demam dapat disebabkan oleh berbagai hal. Minumlah banyak air dan istirahat yang cukup.",
+        "sakit_perut": "Sakit perut bisa disebabkan oleh banyak hal. Jika berlanjut, sebaiknya konsultasikan dengan dokter."
+    },
+    "default_response": "Maaf, saya tidak mengerti keluhan tersebut. Saran saya, konsultasikan dengan dokter untuk informasi lebih lanjut."
+}
